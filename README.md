@@ -1,4 +1,4 @@
-```bash
+```
 Blue Screen of Death (bsod):
 
 Building:
